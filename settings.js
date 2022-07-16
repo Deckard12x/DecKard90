@@ -57,7 +57,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['51994299226'] //ur owner number
 global.ownername = "🥷🏻 ᴅᴇᴄᴋᴀʀᴅ  🥷🏻" //ur owner name
 global.ytname = "FB: Noel" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.socialm = "INSTAGRAM: DECKARD_1012" //ur github or insta name
 global.location = "Lima, Perú" //ur location
 
 //bot bomdy 
@@ -102,10 +102,10 @@ global.ntilink = []
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🥷🏻','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Hecho ✓',
+    success: 'HECHO ✓',
     admin: '*[❗] ESTA FUNCIÓN ES SOLO PARA ADMINISTRADORES!*',
     botAdmin: '*[❗] El BOT DEBE SER ADMINISTRADOR PRIMERO!*',
     owner: '*[❗]* ESTA FUNCIÓN ES SOLO PARA *DECKARD!*',
